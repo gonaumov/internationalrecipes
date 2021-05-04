@@ -1,5 +1,5 @@
 <template>
   <div class="about">
-    <h1>This is Romania page</h1>
+    <h1>TO DO:</h1>
   </div>
 </template>

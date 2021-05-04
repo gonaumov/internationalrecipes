@@ -1,5 +1,9 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <p>
+      This is just a tiny place where I would like to keep several recipes of
+      sentimental value. If you want to add a recipe you can send it to me at
+      gonaumov@gmail.com.
+    </p>
   </div>
 </template>

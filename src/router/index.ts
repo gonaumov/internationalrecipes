@@ -23,7 +23,7 @@ const routes: Array<RouteRecordRaw> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Austria.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Austria.vue"),
   },
   {
     path: "/bulgaria",
@@ -32,7 +32,7 @@ const routes: Array<RouteRecordRaw> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Bulgaria.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Bulgaria.vue"),
   },
   {
     path: "/germany",
@@ -41,7 +41,7 @@ const routes: Array<RouteRecordRaw> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Germany.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Germany.vue"),
   },
   {
     path: "/india",
@@ -50,7 +50,7 @@ const routes: Array<RouteRecordRaw> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/India.vue"),
+      import(/* webpackChunkName: "about" */ "../views/India.vue"),
   },
   {
     path: "/romania",
@@ -59,7 +59,7 @@ const routes: Array<RouteRecordRaw> = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Romania.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Romania.vue"),
   },
 ];
 
