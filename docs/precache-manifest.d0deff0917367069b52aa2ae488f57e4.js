@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55370849cec2b953d30e",
+    "revision": "60b36b5fbb5b33461776",
     "url": "/internationalrecipes/css/app.1356acd6.css"
   },
   {
@@ -64,16 +64,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/internationalrecipes/img/strawberry-duplings.793f984b.png"
   },
   {
-    "revision": "1939aed8ba77b0937f159d58c3f650a1",
+    "revision": "f71ec9713cf8ea19fe3b6fc9afe37a48",
     "url": "/internationalrecipes/index.html"
   },
   {
-    "revision": "ace79ff1a784055f3c3c",
-    "url": "/internationalrecipes/js/about.67423b34.js"
+    "revision": "51d134ceb5d947b1a602",
+    "url": "/internationalrecipes/js/about.df8fc63b.js"
   },
   {
-    "revision": "55370849cec2b953d30e",
-    "url": "/internationalrecipes/js/app.63f557f8.js"
+    "revision": "60b36b5fbb5b33461776",
+    "url": "/internationalrecipes/js/app.267f990a.js"
   },
   {
     "revision": "0ec7ec45a092b4db31c0",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/internationalrecipes/precache-manifest.7f3f8dfe2080a04bd1caa2143f154b83.js"
+  "/internationalrecipes/precache-manifest.d0deff0917367069b52aa2ae488f57e4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "internationalrecipes"});

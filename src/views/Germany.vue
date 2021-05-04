@@ -14,23 +14,35 @@
     100ml White wine + more for the cook 1/2 Pumpkin 3 Chorizo 1 Onion 30g
     Butter Olive oil A lot of Parmigiano Reggiano Pumpkin seed oil Pumpkin seeds
     Spices: salt, pepper, turmeric, coriander, cumin, paprika, ginger, cinnamon,
-    cayenne pepper, garlic Directions 1. Get your mise-en-place done and prepare
-    all the ingredients. Cut the onion into small dices, cut the chorizo into
-    bite-sized pieces, and peel the squash if you like (you can usually eat the
-    peel with it, but I prefer it without). Also prepare your broth already (if
-    necessary) and grate of course a good portion of cheese. And btw if you
-    bought a white wine you don't know, now is the time to try it.
-    <img
-      alt="RisottowithChorizo logo"
-      src="../assets/pumpkinRisottowithChorizo1.png"
-    />
-    <img
-      alt="RisottowithChorizo logo"
-      src="../assets/pumpkinRisottowithChorizo2.png"
-    />
-    2. Season the pumpkin to your preference and mix it with a little olive oil.
-    Then put it in the oven at about 180 degrees on a tray. It should take about
-    20 minutes until it is ready. 3. Heat the butter with olive oil and add the
+    cayenne pepper, garlic Directions
+    <el-row type="flex" class="row-bg" justify="center">
+      <el-col :span="8">
+        <div class="grid-content bg-purple">
+        <el-card class="box-card">
+          <div class="text item">
+            1. Get your mise-en-place done and prepare all the ingredients. Cut the onion into small dices, cut the chorizo into
+            bite-sized pieces, and peel the squash if you like (you can usually eat the
+            peel with it, but I prefer it without). Also prepare your broth already (if
+            necessary) and grate of course a good portion of cheese. And btw if you
+            bought a white wine you don't know, now is the time to try it.
+            <img
+                alt="RisottowithChorizo logo"
+                src="../assets/pumpkinRisottowithChorizo1.png"
+            />
+            <img
+                alt="RisottowithChorizo logo"
+                src="../assets/pumpkinRisottowithChorizo2.png"
+            />
+          </div>
+          <div class="text item">
+            2. Season the pumpkin to your preference and mix it with a little olive oil.
+            Then put it in the oven at about 180 degrees on a tray. It should take about
+            20 minutes until it is ready.
+          </div>
+        </el-card>
+      </div></el-col>
+    </el-row>
+    3. Heat the butter with olive oil and add the
     onion and risotto rice. Sauté until both the rice and the onions are
     slightly transparent. 4. Now deglaze the whole thing with white wine and
     stir on medium heat until the rice has almost completely absorbed the
